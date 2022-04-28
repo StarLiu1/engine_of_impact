@@ -6,3 +6,8 @@ api_miners/key_vault.py
 .python_packages
 __pycache__
 aadconfig.json
+node_modules
+node_modules
+env
+backend/env
+backend/__pycache__
